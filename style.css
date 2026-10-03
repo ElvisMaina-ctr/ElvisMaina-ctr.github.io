@@ -1,6 +1,6 @@
- <style>
-        body{
-            font-family: Times New Roman, sans-serif;
+
+body{
+            font-family: Times New Roman,        sans-serif;
             max-width: 700px;
             margin: 50px auto;
             padding: 0 20px;
@@ -14,13 +14,13 @@
             color: #ffffff;
         
         }
-        p}
+ p}
             font-size: 12
         }
-        a{
+ a{
             color: #0366d6;
         }
-        .section {
+section{
             margin-bottom: 30px;
         }
-    </style>
+    

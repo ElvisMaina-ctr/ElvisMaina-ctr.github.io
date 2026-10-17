@@ -1,5 +1,5 @@
 
-body{
+.body{
             font-family: Times New Roman,        sans-serif;
             max-width: 700px;
             margin: 50px auto;
@@ -8,19 +8,19 @@ body{
             background-color: #111111;
         }
        
- h1{
+ .h1{
             border-bottom: 2px solid #0366d6;
             padding-bottom: 10px;
             color: #ffffff;
         
         }
- p}
+ .p}
             font-size: 12
         }
- a{
+ .a{
             color: #0366d6;
         }
-section{
+.section{
             margin-bottom: 30px;
         }
     
